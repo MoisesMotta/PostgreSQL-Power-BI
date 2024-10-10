@@ -1,14 +1,18 @@
 # Projeto de Integração entre PostgreSQL e Power BI - Dashboard de Vendas de Carros 🚗📊
 
-Desenvolvi um **Dashboard de Vendas de Carros** com o objetivo de fornecer uma visualização intuitiva dos principais indicadores de vendas da empresa. O design foi criado no **Figma**, garantindo uma apresentação de fácil interpretação.
+Desenvolvi um **Dashboard de Vendas de Carros** com o objetivo de fornecer uma visualização intuitiva dos principais indicadores de vendas da empresa. O design foi criado no **Figma**, garantindo uma apresentação de fácil interpretação. 
 
-![figma](figma)
+---
+![figma](figma.jfif)
 
+---
 
 Na etapa de **ETL**, trabalhei na limpeza e tratamento dos dados no **PostgreSQL**, garantindo que as informações estivessem em excelente forma para análise. Depois, integrei os dados ao **Power BI** via **ODBC**, fazendo apenas ajustes finais no **Power Query** para manter o processo eficiente e proporcionar uma visão detalhada dos resultados.
 
-![ETL](etl)
 
+![ETL](etl.jfif)
+
+---
 
 ## Estrutura do Dashboard
 
@@ -39,9 +43,11 @@ Esses dados permitem uma análise detalhada que ajuda a otimizar as estratégias
 
 ## Projeto
 
-![Capa do dashboard](capa)
+![Capa do dashboard](capa.jfif)
 
-![analise](analise)
+---
+
+![analise](analise.jfif)
 
 
 ## Acesso ao Dashboard Interativo
